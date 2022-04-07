@@ -4,12 +4,16 @@ Unit 8 Homework - Networking Fundamentals
 Phase I
 
 fping -g 15.199.95.91/28 - Was found to be unreachable
+
 fping -g 15.199.94.91/28 - Was found to be unreachable
+
 fping -g 11.199.158.91/28 - Was found to be unreachable
+
 fping -g 167.172.144.11/32 - Was found to be Alive
+
 fping -g 11.199.141.91/28 - Was found to be unreachable
 
-To mitigate these potentially vulnerabilities, Rockstar Corp. should restrict all ICMP Echo requests to all of their servers including 167.172.144.11.
+To mitigate these potential vulnerabilities, Rockstar Corp. should restrict all ICMP Echo requests to all of their servers including 167.172.144.11.
 
 The results would be found in the Network Layer, due to the need of an IP Address to run the ping command.
 
