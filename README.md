@@ -8,7 +8,7 @@
 
 [Unit 16 Homework](https://github.com/jbutterfield15/BootCampHW/blob/main/Unit%2016%20Homework/Unit%2016%20Homework.md)
 
-[Unit 17 Homework]()
+[Unit 17 Homework](https://github.com/jbutterfield15/BootCampHW/blob/main/Unit%2017%20Homework/Unit%2017%20Homework.md)
 
 [Unit 18 Homework]()
 
