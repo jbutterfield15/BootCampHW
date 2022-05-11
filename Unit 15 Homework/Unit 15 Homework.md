@@ -81,7 +81,7 @@ Complete the following steps to walkthrough the intended purpose of the web appl
 - When you attempt to inject this payload,  you will encounter a client-side limitation that will not allow you to enter the whole payload. You will need to find away around this limitation.
 	 
 - Once you are able to hook into Replicants website, attempt a couple BeEF exploits. Some that work well include:
-   - Social Engineering >> Pretty Theft
+   - Social Engineering >> Facebook Login
    - Social Engineering >> Fake Notification Bar
    - Host >> Get Geolocation (Third Party)
 
