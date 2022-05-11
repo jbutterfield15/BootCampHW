@@ -10,9 +10,11 @@
 
 
 The web page should look like the following:
+
 [Setup]()
 
 2. This page is a new web application built by Replicants in order to enable their customers to ping an IP address. The web page will return the results of the ping command back to the user.
 Complete the following steps to walkthrough the intended purpose of the web application.
 - Test the webpage by entering the IP address 8.8.8.8. Press Submit to see the results display on the web application.
+
 [8.8.8.8](https://github.com/jbutterfield15/BootCampHW/blob/main/Unit%2015%20Homework/Images/HW%201.PNG)
