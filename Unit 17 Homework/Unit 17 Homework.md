@@ -57,7 +57,7 @@ For this week's homework, please use the following VM setup:
 ### Deliverable
 Once you complete this assignment, submit your findings in the following document:
 
-[Report.docx]()
+[Report.docx](https://github.com/jbutterfield15/BootCampHW/blob/main/Unit%2017%20Homework/Report.docx)
 
 
 ### Instructions
