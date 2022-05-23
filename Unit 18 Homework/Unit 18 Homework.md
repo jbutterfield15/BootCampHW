@@ -154,7 +154,7 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
         
 3. Determine a baseline of normal activity and a threshold that would alert if a brute force attack is occurring.
 
-      > The normal activity appears to have been less than 34 log in attempts, and considering the number of attempts spiked to more than 120, a decent threshold would be set at 35 attempts within an hour. 
+      > The normal activity appears to have been less than 34 log in attempts, and considering the number of attempts spiked to more than 120, a decent threshold would be set at 30 attempts within an hour. 
 
 4. Design an alert to check the threshold every hour and email the SOC team at SOC@vandalay.com if triggered.
 
